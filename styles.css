@@ -1,0 +1,38 @@
+/* css for google search page */
+
+#pagelink {
+    float: right;
+}
+
+.gspage {
+    display: flex;
+    justify-content: center;
+}
+
+#text1 {
+    width: 450px;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 200px;
+}
+
+.google1 {
+    margin-top: 10px;
+}
+
+.navbartop {
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+
+/* advanced */
+
+#form {
+    margin-left: 25px;
+    margin-top: 50px;
+}
+
+.form-control {
+    width: 65%;
+}
